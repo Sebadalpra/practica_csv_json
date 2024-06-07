@@ -5,7 +5,7 @@
         "apellido": "Copeland",
         "edad": 42,
         "correo": "debra62@yahoo.com",
-        "direccion": "98953 Munoz Spurs Suite 116, Lake Ericview, MN 11681"
+        "direccion": "98953 Munoz Spurs Suite 116"
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "apellido": "Taylor",
         "edad": 19,
         "correo": "matthew30@brown.com",
-        "direccion": "537 Schultz Ferry, North Jonathan, AR 32096"
+        "direccion": "537 Schultz Ferry"
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "apellido": "Harris",
         "edad": 33,
         "correo": "grayrandall@solomon-bowman.biz",
-        "direccion": "5772 Lara Overpass, Scottside, OK 74436"
+        "direccion": "5772 Lara Overpass"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "apellido": "Caldwell",
         "edad": 47,
         "correo": "eweeks@gmail.com",
-        "direccion": "8213 Johnson Neck Suite 068, Jamesborough, MN 27665"
+        "direccion": "8213 Johnson Neck Suite 068"
     },
     {
         "id": "5",
@@ -37,7 +37,7 @@
         "apellido": "Dominguez",
         "edad": 27,
         "correo": "psweeney@boyle-barnes.com",
-        "direccion": "208 Donald Neck, Emilyfurt, KY 20057"
+        "direccion": "208 Donald Neck"
     },
     {
         "id": "6",
@@ -45,7 +45,7 @@
         "apellido": "Ayala",
         "edad": 64,
         "correo": "stephanie62@morrison.com",
-        "direccion": "084 Tyler Canyon Suite 756, North Sherylshire, KS 36043"
+        "direccion": "084 Tyler Canyon Suite 756"
     },
     {
         "id": "7",
@@ -53,7 +53,7 @@
         "apellido": "Douglas",
         "edad": 39,
         "correo": "zandersen@gmail.com",
-        "direccion": "01590 Crystal Crossing, West Amy, KY 18813"
+        "direccion": "01590 Crystal Crossing"
     },
     {
         "id": "8",
@@ -61,7 +61,7 @@
         "apellido": "Russell",
         "edad": 80,
         "correo": "christophertran@gmail.com",
-        "direccion": "7885 Matthew Mews Suite 365, Brianton, AL 07697"
+        "direccion": "7885 Matthew Mews Suite 365"
     },
     {
         "id": "9",
@@ -69,7 +69,7 @@
         "apellido": "Harding",
         "edad": 32,
         "correo": "kennethgreen@mack.com",
-        "direccion": "93746 Taylor Roads, Millsmouth, MI 55085"
+        "direccion": "93746 Taylor Roads"
     },
     {
         "id": "10",
@@ -77,6 +77,6 @@
         "apellido": "Holmes",
         "edad": 40,
         "correo": "huntnicole@hotmail.com",
-        "direccion": "378 Strong Creek, South Jessicaville, LA 68090"
+        "direccion": "378 Strong Creek"
     }
 ]
