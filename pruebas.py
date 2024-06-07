@@ -33,3 +33,19 @@ with open("./hola_loco.txt", "w", encoding="utf-8") as archivo:
 
 print("terminamos")
 
+
+lista = [2, 3, 5, 1]
+
+tam = len(lista)
+
+
+for i in range(tam -1):
+    for j in range(i + 1, tam):
+        if lista[i] < lista[j]:
+            # swap
+            aux = lista[i]
+            lista[i] = lista[j]
+            lista[j] = aux
+
+print(lista)
+
